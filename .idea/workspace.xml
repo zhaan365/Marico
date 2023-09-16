@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="462cb168-b4fd-41df-baff-bf029c6feda1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KrTLX5jRtbaszPB639eR6e3XYR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\marico\src\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="462cb168-b4fd-41df-baff-bf029c6feda1" name="Default Changelist" comment="" />
+      <created>1674731646146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674731646146</updated>
+      <workItem from="1674731647614" duration="117000" />
+      <workItem from="1674731796703" duration="26000" />
+      <workItem from="1674731835892" duration="466000" />
+      <workItem from="1674732395931" duration="102000" />
+      <workItem from="1674732514324" duration="333000" />
+      <workItem from="1674732873891" duration="1425000" />
+      <workItem from="1674734646772" duration="1721000" />
+      <workItem from="1674739984593" duration="788000" />
+      <workItem from="1674749197832" duration="21000" />
+      <workItem from="1674749223080" duration="1614000" />
+      <workItem from="1674752050962" duration="3583000" />
+      <workItem from="1674835319637" duration="4808000" />
+      <workItem from="1674892009217" duration="515000" />
+      <workItem from="1675016068866" duration="42000" />
+      <workItem from="1675358642015" duration="3818000" />
+      <workItem from="1675362721458" duration="204000" />
+      <workItem from="1675362940401" duration="1931000" />
+      <workItem from="1675430333043" duration="1605000" />
+      <workItem from="1675512270043" duration="222000" />
+      <workItem from="1676464940360" duration="67000" />
+      <workItem from="1693508560091" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1674839805439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1674839805439" />
+    <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1674731743134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1674731743134" />
+  </component>
+</project>

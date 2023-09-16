@@ -1,0 +1,38 @@
+.footer{
+  margin: 180px 0 100px;
+  &__title{
+    font-weight: 800;
+    font-size: 42px;
+    color: #FFFFFF;
+    margin-top: 10px;
+  }
+  &__text{
+    font-weight: 400;
+    font-size: 27px;
+    color: #707070;
+    margin-top: 13px;
+  }
+  &__left1{
+    display: flex;
+    column-gap: 23px;
+  }
+  &__li{
+    font-weight: 500;
+    font-size: 28px;
+    color: #707070;
+    cursor: pointer;
+    &:hover{
+      color: #326DF9;
+      transition: .8s;
+    }
+  }
+  &__block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__ul{
+    display: flex;
+    column-gap: 45px;
+  }
+}

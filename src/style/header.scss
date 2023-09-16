@@ -1,0 +1,56 @@
+.header{
+  padding: 55px 0;
+  &__row{
+    display: flex;
+    justify-content: space-between;
+  }
+  &__titles{
+    display: flex;
+    column-gap: 16px;
+    align-items: center;
+  }
+  &__ul{
+    display: flex;
+    column-gap: 35px;
+    align-items: center;
+  }
+  &__title{
+    font-weight: 800;
+    font-size: 37px;
+    color: #FFFFFF;
+  }
+  &__li{
+    font-weight: 500;
+    font-size: 20px;
+    color: #707070;
+    cursor: pointer;
+    &:hover{
+      color: #3C82F4;
+      transition: .5s;
+    }
+  }
+  &__abtn{
+    display: flex;
+    column-gap: 24px;
+    align-items: center;
+  }
+  &__a{
+    font-weight: 500;
+    font-size: 20px;
+    color: #707070;
+    &:hover{
+      color: #3C82F4;
+      transition: .5s;
+    }
+  }
+  &__btn{
+    padding: 12px 21px;
+    background: #306EF7;
+    border: none;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+}

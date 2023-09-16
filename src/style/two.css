@@ -1,0 +1,85 @@
+.two {
+  padding: 20px 0;
+}
+.two__text1 {
+  font-weight: 500;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.two__text2 {
+  font-weight: 600;
+  font-size: 75px;
+  line-height: 100px;
+  color: #FFFFFF;
+  margin: 80px 0 27px;
+}
+.two__text3 {
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 34px;
+  color: #FFFFFF;
+}
+.two__boxes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 12px;
+     -moz-column-gap: 12px;
+          column-gap: 12px;
+}
+.two__box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  row-gap: 13px;
+}
+.two__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 228px;
+     -moz-column-gap: 228px;
+          column-gap: 228px;
+  margin-top: 150px;
+}
+.two__right {
+  position: relative;
+}
+.two__img {
+  width: 820px;
+  height: 591px;
+  position: absolute;
+  top: -30px;
+}
+.two__btn1 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+  background: #326CF9;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 17px 21px;
+}
+.two__btn2 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #707070;
+  border-radius: 10px;
+  cursor: pointer;
+  background: #0E0E0E;
+  padding: 17px 21px;
+  border: 1px solid #707070;
+}
+.two__btn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 25px;
+     -moz-column-gap: 25px;
+          column-gap: 25px;
+  margin-top: 66px;
+}

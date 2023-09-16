@@ -1,0 +1,143 @@
+.one{
+  padding-top: 85px;
+  &__img {
+    width: 100%;
+  }
+  &__title{
+    font-weight: 700;
+    font-size: 112px;
+    color: #FFFFFF;
+    text-align: center;
+  }
+  &__text{
+    margin-top: 120px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  &__btn1{
+    background: #326CF9;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+    border: none;
+    padding: 23px 74px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  &__btn2{
+    padding: 23px 74px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #707070;
+    background: #000000;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  &__btn{
+    display: flex;
+    column-gap: 26px;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  &__title2{
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+  }
+  &__desc{
+    font-weight: 400;
+    font-size: 25px;
+    color: #707070;
+  }
+  &__row0{
+    display: flex;
+    column-gap: 9px;
+    margin-top: 21px;
+    justify-content: center;
+  }
+  &__desc1{
+    font-weight: 600;
+    font-size: 75px;
+    color: #FFFFFF;
+    margin-top: 150px;
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  &__title00{
+    font-weight: 600;
+    font-size: 35px;
+    color: #FFFFFF;
+  }
+  &__desc00{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 22px;
+    color: #707070;
+    text-align: center;
+  }
+  &__card00{
+    display: flex;
+    column-gap: 8px;
+    align-items: center;
+    justify-content: center;
+  }
+  &__card{
+
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+  &__row00{
+    display: flex;
+    justify-content: center;
+    column-gap: 80px;
+  }
+  &__btn11{
+    font-weight: 600;
+    font-size: 20px;
+    color: #707070;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    cursor: pointer;
+    background: black;
+    padding: 24px 38px;
+  }
+  &__span11{
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
